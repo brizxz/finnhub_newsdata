@@ -1,0 +1,35 @@
+=== Analysis Summary ===
+Total files processed: 237
+Files with errors: 0
+
+=== Original URL Domains ===
+@https://finnhub.io (237)
+
+=== Final URL Domains (After Redirects) ===
+@https://finance.yahoo.com (104)
+@https://finnhub.io (41)
+@https://seekingalpha.com (34)
+@https://www.fool.com (23)
+@https://www.investors.com (12)
+@https://www.barrons.com (7)
+@https://www.investopedia.com (4)
+@https://www.wsj.com (4)
+@https://consent.yahoo.com (3)
+@https://ca.finance.yahoo.com (2)
+@https://www.coindesk.com (1)
+@https://www.thestreet.com (1)
+@https://www.verdict.co.uk (1)
+
+=== Domain Redirects ===
+finnhub.io -> ca.finance.yahoo.com
+finnhub.io -> consent.yahoo.com
+finnhub.io -> finance.yahoo.com
+finnhub.io -> seekingalpha.com
+finnhub.io -> www.barrons.com
+finnhub.io -> www.coindesk.com
+finnhub.io -> www.fool.com
+finnhub.io -> www.investopedia.com
+finnhub.io -> www.investors.com
+finnhub.io -> www.thestreet.com
+finnhub.io -> www.verdict.co.uk
+finnhub.io -> www.wsj.com
